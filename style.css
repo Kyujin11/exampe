@@ -6,7 +6,7 @@
 .header {
     min-height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.5), #00031b), url(images/1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5), #00031b), url(1.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -353,7 +353,7 @@ color:#61481C;
     width: 100%;
     text-align: center;
     padding-top: 60px;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), #61481C), url(images/sec5bg.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), #61481C), url(sec5bg.jpg);
     background-position: center;
     background-size: cover;
 }
